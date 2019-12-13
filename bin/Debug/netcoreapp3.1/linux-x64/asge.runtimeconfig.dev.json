@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/mutant/.dotnet/store/|arch|/|tfm|",
+      "/Users/mutant/.nuget/packages"
+    ]
+  }
+}
